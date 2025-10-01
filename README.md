@@ -1,9 +1,9 @@
-### 🧑‍💻Multi-Agent Conversational System with RAG & Tools
+## 🧑‍💻Multi-Agent Conversational System with RAG & Tools
 
 This project implements a multi-agent conversational system using LangChain and EuriAI.
 It combines specialized agents (Researcher & Teacher) with a Router Agent that dynamically decides which agent should respond.
 
-The system is enhanced with tools like:
+### The system is enhanced with tools like:
 
 📄 Summarizer (summarizes long text)
 
@@ -59,15 +59,15 @@ pip install -r requirements.txt
 
 If you don’t have a requirements.txt yet, here are the essentials:
 
-langchain
-langchain-community
-langchain-huggingface
-faiss-cpu
-numpy
-requests
-wikipedia
-python-dotenv
-euriai
+- langchain
+- langchain-community
+- langchain-huggingface
+- faiss-cpu
+- numpy
+- requests
+- wikipedia
+- python-dotenv
+- euriai
 
 🔑 Environment Variables
 
