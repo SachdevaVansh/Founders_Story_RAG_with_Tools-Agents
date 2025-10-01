@@ -86,9 +86,9 @@ LLM_API_KEY=your_api_key_here
 ▶️ Running the Project
 
 After setup, run:
-
+```bash
 python main.py
-
+```
 
 You’ll see:
 
@@ -113,9 +113,9 @@ User enters a query.
 
 The Router Agent decides whether it should go to:
 
-Researcher Agent (fact-based, RAG/Wiki queries)
+1. Researcher Agent (fact-based, RAG/Wiki queries)
 
-Teacher Agent (concept explanations).
+2. Teacher Agent (concept explanations).
 
 Agents can call tools to retrieve or process data.
 
