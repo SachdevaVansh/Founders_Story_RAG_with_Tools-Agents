@@ -1,4 +1,4 @@
-🧑‍💻 ### Multi-Agent Conversational System with RAG & Tools
+### 🧑‍💻Multi-Agent Conversational System with RAG & Tools
 
 This project implements a multi-agent conversational system using LangChain and EuriAI.
 It combines specialized agents (Researcher & Teacher) with a Router Agent that dynamically decides which agent should respond.
